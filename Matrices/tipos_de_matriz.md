@@ -46,5 +46,3 @@ Una matriz de Vandermonde es una matriz en la que cada fila es una progresión g
 
 ## Matriz de Hilbert
 Una matriz de Hilbert es una matriz cuadrada con elementos dados por `H(i,j) = 1 / (i + j - 1)`.
-
-Estas son algunas de las matrices más comunes que se encuentran en álgebra lineal y programación lineal. Cada tipo de matriz tiene propiedades y aplicaciones específicas que son útiles en diferentes contextos matemáticos y computacionales.
